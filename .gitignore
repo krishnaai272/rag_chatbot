@@ -13,9 +13,5 @@ __pycache__/
 # Ignore Jupyter notebooks checkpoints
 .ipynb_checkpoints
 
-# Ignore large media files
-media/videos/
 
-# Ignore logs
-outputs/logs/
 
