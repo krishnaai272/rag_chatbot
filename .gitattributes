@@ -1,5 +1,4 @@
 outputs/logs/* filter=lfs diff=lfs merge=lfs -text
-media/videos/2[[:space:]]part[[:space:]]Databases[[:space:]]for[[:space:]]GenAI[[:space:]](1).mp4 filter=lfs diff=lfs merge=lfs -text
 outputs/logs/chat_log.txt filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.pptx filter=lfs diff=lfs merge=lfs -text
